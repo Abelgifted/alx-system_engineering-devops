@@ -1,2 +1,2 @@
 #!bin/bash
-sudo emacs /etc/passwd
+cat /etc/passwd
